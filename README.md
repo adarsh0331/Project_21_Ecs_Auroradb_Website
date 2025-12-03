@@ -513,9 +513,3 @@ Always re-run the pipeline after fixing errors to verify successful deployment.
 # Aurora RDS ![Image](images/Aurora_Dashboard.png)
 
 ---
-
-## 👨‍💻 **Author**
-
-**Ramagiri Jithendar** — DevOps Engineer
-📧 **[ramagirijithendar1998@gmail.com](mailto:ramagirijithendar1998@gmail.com)**
-💼 **[LinkedIn Profile](#)**
